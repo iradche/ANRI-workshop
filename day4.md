@@ -8,4 +8,4 @@
 
 3. Как соскрейпить данные при помощи Google Spreadsheets: 
 
-4. Использование ScraperWiki: https://scraperwiki.com/     
+4. Образец странички: https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science           
