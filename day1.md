@@ -9,3 +9,4 @@
 Что такое паспорт набора данных и словарь данных?     
 Примеры.     
   
+Data Journalism Zeef: https://data-journalism.zeef.com/irina.radchenko#_=_    
